@@ -13,5 +13,5 @@ This project is a responsive resume website built using Next.js (App Router) and
 
 ## Installation
 
-1. cd src
+1. cd nextjs-resume
 2. npm run dev
